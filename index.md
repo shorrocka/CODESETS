@@ -35,4 +35,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 | Project name | Description |
 |--------------|-------------|
-[PRESERVE](https://shorrocka/CODESETS/CODESETS/pedsnet_codesets/index.md) | A study of the prevelance of kidney disease amongst children from all over the country |
+[PRESERVE](https://shorrocka/CODESETS/CODESETS/pedsnet_codesets) | A study of the prevelance of kidney disease amongst children from all over the country |
