@@ -1,0 +1,6 @@
+concept_id,concept_code,concept_name,vocabulary_id
+9201,IP,Inpatient Visit,Visit
+9202,OP,Outpatient Visit,Visit
+9203,ER,Emergency Room Visit,Visit
+2000000048,EI,Emergency Department Admit to Inpatient Hospital Stay- PCORNet,PEDSnet
+2000000088,OS,Observation Stay - PCORNet,PEDSnet

@@ -1,0 +1,98 @@
+concept_id,snomed_name,snomed_code
+252658,Intrinsic asthma without status asthmaticus,12428000
+256448,Chronic asthmatic bronchitis,195949008
+257581,Exacerbation of asthma,281239006
+312950,IgE-mediated allergic asthma,424643009
+313236,Cough variant asthma,409663006
+317009,Asthma,195967001
+443801,Exercise-induced asthma,31387002
+4022592,Millers' asthma,11641008
+4027669,Flax-dressers' disease,13151001
+4050731,Byssinosis grade 3,233672007
+4051466,Childhood asthma,233678006
+4057952,Meat-wrappers' asthma,19849005
+4075237,Brittle asthma,225057002
+4080516,Printers' asthma,18041002
+4110051,Mixed asthma,195977004
+4119298,Late onset asthma,233679003
+4119300,Colophony asthma,233687002
+4120260,Aspirin-sensitive asthma with nasal polyps,233686006
+4120261,Sulfite-induced asthma,233688007
+4123253,Hay fever with asthma,233683003
+4125022,Acute asthma,304527002
+4138760,Exacerbation of intermittent asthma,425969006
+4141978,Intermittent asthma,427603009
+4142738,Moderate persistent asthma,427295004
+4143474,Bakers' asthma,34015007
+4143828,Mild persistent asthma,426979002
+4145356,Severe persistent asthma,426656000
+4145497,Intrinsic asthma,266361008
+4146581,Mild intermittent asthma,427679007
+4147509,Allergic-infective asthma,30352005
+4152913,Severe asthma,370221004
+4155468,Mild asthma,370218001
+4155469,Moderate asthma,370219009
+4155470,Occasional asthma,370220003
+4191479,Allergic asthma,389145006
+4206340,Asthma without status asthmaticus,55570000
+4211530,Wood asthma,56968009
+4212099,Occupational asthma,57607007
+4217558,Detergent asthma,41553006
+4225553,Cheese-makers' asthma,404806001
+4225554,Isocyanate induced asthma,404808000
+4232595,Platinum asthma,404804003
+4233784,Asthmatic bronchitis,405944004
+4244339,Drug-induced asthma,93432008
+4245292,Weavers' cough,59786004
+4245676,Chemical-induced asthma,92807009
+4250128,Aspirin-induced asthma,407674008
+4271333,Extrinsic asthma without status asthmaticus,63088003
+4301938,Tea-makers' asthma,418395004
+4309833,Non-IgE mediated allergic asthma,423889005
+4311814,Byssinosis,85761009
+4312524,Substance induced asthma,424199006
+40481763,Acute exacerbation of chronic asthmatic bronchitis,442025000
+40483397,Seasonal asthma,445427006
+43530693,Acute exacerbation of chronic obstructive airways disease with asthma,1751000119100
+43530745,Asthma with irreversible airway obstruction,401000119107
+44810117,Chronic asthma with fixed airflow obstruction,866881000000101
+45766727,Allergic asthma due to Dermatophagoides pteronyssinus,703953004
+45766728,Allergic asthma due to Dermatophagoides farinae,703954005
+45768910,Uncomplicated asthma,707444001
+45768911,Exacerbation of mild persistent asthma,707445000
+45768912,Exacerbation of severe persistent asthma,707447008
+45768963,Uncomplicated mild persistent asthma,707511009
+45768964,Uncomplicated moderate persistent asthma,707512002
+45768965,Uncomplicated severe persistent asthma,707513007
+45769350,Acute severe exacerbation of severe persistent asthma,707979007
+45769351,Acute severe exacerbation of moderate persistent asthma,707980005
+45769352,Acute severe exacerbation of mild persistent asthma,707981009
+45769438,Acute severe exacerbation of asthma,708090002
+45769441,Acute exacerbation of allergic asthma,708093000
+45769442,Acute severe exacerbation of allergic asthma,708095007
+45769443,Acute severe exacerbation of intrinsic asthma,708096008
+45771045,Acute exacerbation of asthma,708038006
+45772073,Asthma in mother complicating childbirth,10742121000119104
+45772937,Exacerbation of moderate persistent asthma,707446004
+45773005,Acute exacerbation of intrinsic asthma,708094006
+46269767,Acute severe exacerbation of asthma co-occurrent with allergic rhinitis,10674711000119105
+46269770,Severe persistent allergic asthma,10675431000119106
+46269771,Acute severe exacerbation of severe persistent asthma co-occurrent with allergic rhinitis,10675551000119104
+46269776,Mild persistent allergic asthma,10675871000119106
+46269777,Acute severe exacerbation of mild persistent allergic asthma co-occurrent with allergic rhinitis,10675991000119100
+46269784,Moderate persistent allergic asthma,10676391000119108
+46269785,Acute severe exacerbation of moderate persistent asthma co-occurrent with allergic rhinitis,10676511000119109
+46269802,Chronic obstructive asthma co-occurrent with acute exacerbation of asthma,10692721000119102
+46270028,Severe persistent asthma co-occurrent with allergic rhinitis,124991000119109
+46270029,Mild persistent asthma co-occurrent with allergic rhinitis,125011000119100
+46270030,Intermittent asthma co-occurrent with allergic rhinitis,125021000119107
+46270082,Acute exacerbation of mild persistent asthma,135181000119109
+46270322,Intermittent asthma uncontrolled,1741000119102
+46273452,Acute exacerbation of asthma co-occurrent with allergic rhinitis,99031000119107
+46273454,Moderate persistent asthma co-occurrent with allergic rhinitis,125001000119103
+46273462,Acute severe exacerbation of moderate persistent allergic asthma,10676431000119103
+46273487,Acute exacerbation of moderate persistent asthma,135171000119106
+46273635,Steroid dependent asthma,2360001000004109
+46274059,Acute severe exacerbation of severe persistent allergic asthma,10675471000119109
+46274062,Asthma-chronic obstructive pulmonary disease overlap syndrome,10692761000119107
+46274124,Acute severe exacerbation of mild persistent allergic asthma,10675911000119109

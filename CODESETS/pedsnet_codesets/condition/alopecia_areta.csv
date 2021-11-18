@@ -1,0 +1,13 @@
+concept_id,concept_code,concept_name,vocabulary_id
+141933,68225006,Alopecia areata,SNOMED
+4239312,5860009,Ophiasis,SNOMED
+4263194,46586006,Diffuse alopecia areata,SNOMED
+4300094,77363004,Concentric alopecia areata,SNOMED
+4300910,403320008,Circumscribed alopecia areata of scalp,SNOMED
+4300911,403321007,Circumscribed alopecia areata of eyelashes/eyebrows,SNOMED
+4300912,403322000,Circumscribed alopecia areata of beard area,SNOMED
+4300913,403323005,Circumscribed alopecia areata of limbs,SNOMED
+4300914,403324004,Circumscribed alopecia areata of trunk,SNOMED
+4312756,86166000,Alopecia universalis,SNOMED
+4056343,19754005,Alopecia totalis,SNOMED
+37203833,783205005,Alopecia antibody deficiency,

@@ -1,0 +1,5 @@
+SELECT descendant_concept_id as concept_id, concept_name, concept_code, vocabulary_id
+FROM vocabulary.concept_ancestor ca
+INNER JOIN vocabulary.concept c ON ca.descendant_concept_id = c.concept_id
+/* 21601387: ANTINEOPLASTIC AGENTS */ 
+WHERE ancestor_concept_id = 21601387 AND concept_class_id = 'Clinical Drug'

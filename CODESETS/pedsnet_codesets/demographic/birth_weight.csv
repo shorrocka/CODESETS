@@ -1,0 +1,3 @@
+concept_id,concept_name,concept_code,vocabulary_id,note
+3011043,Birth weight Measured,8339-4 ,LOINC,Preferred
+40759177,Birth weight - Reported,56056-5,LOINC,Self-reported
