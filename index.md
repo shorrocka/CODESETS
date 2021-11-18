@@ -7,8 +7,7 @@ This will be a space where codesets can live to reduce the redundancy of definin
 | Project name | Description |
 |--------------|-------------|
 [PRESERVE](https://shorrocka.github.io/Preserve_Codesets/) | A study of the prevelance of kidney disease amongst children from all over the country |
-
-[PEDSNET](https://shorrocka.github.io/Preserve_Codesets/) | Codesets developed for various different projects organized by domain |
+[PEDSNET](https://shorrocka.github.io/PedsNET_Codesets/) | Codesets developed for various different projects organized by domain |
 
 
 #Other codesets not associated with a specific project
