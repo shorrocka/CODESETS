@@ -5,7 +5,7 @@ This will be a space where codesets can live to reduce the redundancy of definin
 Each Domain will link to a page with a more in-depth details about each group of codesets.
 
 
-### [Medications](https://shorrocka.github.io/CODESETS/Medications) 
+### [Medications](https://shorrocka.github.io/CODESETS/Medications_barebones_link) 
 
 | Name |
 |--------------------|
